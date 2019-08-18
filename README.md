@@ -1,4 +1,4 @@
-#UTF-8 Programs on windows
+# UTF-8 Programs on windows
 
 This project showcases how to support UTF-8 in windows applications.
 By using UTF-8 everywhere, you guarantee your application will be portable accross platforms.
