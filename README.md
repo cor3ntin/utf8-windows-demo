@@ -6,8 +6,7 @@ By using UTF-8 everywhere, you guarantee your application will be portable accro
 
 ![screenshot](screen.png)
 
-⚠️ UTF-8 support on windows is still fairly bnleeding edge and requires a very recent of windows
-That is not widely deployed yet.
+⚠️ UTF-8 support on windows is still fairly bleeding edge and requires a very recent of windows that is not widely deployed yet.
 
 ## Requirements
 
