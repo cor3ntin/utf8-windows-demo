@@ -3,6 +3,9 @@
 This project showcases how to support UTF-8 in windows applications.
 By using UTF-8 everywhere, you guarantee your application will be portable accross platforms.
 
+
+![screenshot](screen.png)
+
 ⚠️ UTF-8 support on windows is still fairly bnleeding edge and requires a very recent of windows
 That is not widely deployed yet.
 
@@ -11,7 +14,7 @@ That is not widely deployed yet.
 * Windows 1903 or greater
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * Windows SDK 10.0.18362.0 or greater
-* [Suuitable Fonts](https://www.google.com/get/noto/)
+* [Suitable Fonts](https://www.google.com/get/noto/)
 
 ## Steps
 
